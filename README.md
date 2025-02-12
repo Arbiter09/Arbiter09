@@ -28,7 +28,7 @@ Hey there! 👋 I'm a 22-year-old tech enthusiast who's all about open source an
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Seaborn-007FFF?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborne" />
+  <img src="https://img.shields.io/badge/Seaborn-007FFF?style=for-the-badge&logo=seaborne&logoColor=white" alt="Seaborne" />
   
 </p>
 <p align="center">
