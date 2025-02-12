@@ -18,7 +18,7 @@
 Hey there! 👋 I'm a 22-year-old tech enthusiast who's all about open source and development. From DevOps to Blockchain, I love diving into new challenges and crafting innovative solutions. With a passion for clean code and a drive to make a difference, I'm ready to collaborate and build something awesome. Let's connect and create magic together! ✨🚀
 </span>
 
-- 🌱 **Learning:** Data Structures & Algorithms, Data Science, Web Assembly, Machine Learning , Artificial Intelligence
+- 🌱 **Learning:** Data Structures & Algorithms, Data Science, Machine Learning, BlockChain, Solidity
 - 💼 **Open for:** Collaborations in DevOps, Blockchain, and Open Source projects
 - 💬 **Let's talk about:** System Design, Blockchain Technology,AI, ML, Reinforcement Learning or the latest tech trends
 - 🎮 **Hobbies:** Football, Guitar, Gaming Addict, Watching Anime, Reading Novels
