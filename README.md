@@ -28,13 +28,13 @@ Hey there! 👋 I'm a 22-year-old tech enthusiast who's all about open source an
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Seaborn-007FFF?style=for-the-badge&logo=seaborne&logoColor=white" alt="Seaborne" />
+  <img src="https://img.shields.io/badge/Seaborn-00C853?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAVUlEQVR42mNgGAWjYBSMglEwC2FgAiaKARLEVAxmDAaMKwAZI2BqAGJWqAIIowDkCo4ZIJqABlQwDKGqAEmICmD6EwggFQOAGh3Q3UTe6dGAAAAAElFTkSuQmCC&logoColor=white" alt="Seaborn" />
   
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white" alt="Foundry" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black&labelColor=white&color=orange" alt="MySQL" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
