@@ -88,9 +88,7 @@ Hey there! 👋 I'm a 22-year-old tech enthusiast who's all about open source an
   <a href="https://x.com/Jas529">
     <img src="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" width="60" height="60" alt="Twitter">
   </a>
-   <a href="https://leetcode.com/u/Jas_009/">
-    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="60" height="60" alt="LeetCode">
-  </a>
+
 
 </div>
 
