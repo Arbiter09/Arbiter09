@@ -105,7 +105,7 @@ Hey there! 👋 I'm a 22-year-old tech enthusiast who's all about open source an
 </div>
 
 <p align="center">
-  <a href="https://github.com/Ansh1902396?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Arbiter09?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repos" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
   <a href="https://github.com/Arbiter09?tab=followers">
