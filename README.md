@@ -98,16 +98,6 @@ I'm a passionate Full Stack Developer and MS Computer Science student at Stony B
 
 </div>
 
-## 🔍 What I'm Working On
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="25" height="25" alt="magnifying-glass"> Exploring advanced ML algorithms and deploying them to production
-  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" height="25" alt="laptop"> Building scalable web applications with Next.js and Typescript
-  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="25" height="25" alt="chain"> Developing DApps on Ethereum and optimistic rollups
-</div>
-
 ## 📫 Let's Connect
 
 <div align="center">
