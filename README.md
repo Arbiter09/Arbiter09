@@ -11,15 +11,17 @@
 </div>
 
 ## 👨‍💻 About Me
+
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400">
+
 I'm a passionate Full Stack Developer and MS Computer Science student at Stony Brook University, focusing on Data Science and Blockchain technologies. With experience in building high-performance systems and scalable web applications, I enjoy tackling challenges across the stack - from optimizing database queries to creating intuitive user interfaces.
 
-🎓 Education: MS in Computer Science at Stony Brook (CGPA: 3.89/4)
-💼 Experience: Software Developer with expertise in inventory optimization systems and scalable ETL pipelines
-🏆 Achievement: 2nd Place at ETHDenver 2025 Story Protocol track for OpenAudio project
-🌱 Learning: Advanced Data Structures, Machine Learning, Reinforcement Learning, Blockchain Development
-🔍 Interests: System Design, Decentralized Applications, AI/ML, and Cloud Architecture
-🎮 Hobbies: Football, Guitar, Gaming, Anime, Reading
+- 🎓 **Education**: MS in Computer Science at Stony Brook (CGPA: 3.89/4)
+- 💼 **Experience**: Software Developer with expertise in inventory optimization systems and scalable ETL pipelines
+- 🏆 **Achievement**: 2nd Place at ETHDenver 2025 Story Protocol track for OpenAudio project
+- 🌱 **Learning**: Advanced Data Structures, Machine Learning, Reinforcement Learning, Blockchain Development
+- 🔍 **Interests**: System Design, Decentralized Applications, AI/ML, and Cloud Architecture
+- 🎮 **Hobbies**: Football, Guitar, Gaming, Anime, Reading
 
 ## 🛠️ Tech Stack
 
@@ -94,6 +96,16 @@ I'm a passionate Full Stack Developer and MS Computer Science student at Stony B
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 
+</div>
+
+## 🔍 What I'm Working On
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="25" height="25" alt="magnifying-glass"> Exploring advanced ML algorithms and deploying them to production
+  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" height="25" alt="laptop"> Building scalable web applications with Next.js and Typescript
+  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="25" height="25" alt="chain"> Developing DApps on Ethereum and optimistic rollups
 </div>
 
 ## 📫 Let's Connect
