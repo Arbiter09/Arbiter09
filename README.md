@@ -13,7 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse)](https://www.linkedin.com/in/jas-shah-709854233)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arbiter09)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasshah9513@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/Arbiter09?tab=repositories)
 
 </div>
 
@@ -371,7 +370,6 @@ I'm always excited to work on innovative projects and connect with fellow develo
 [![LinkedIn](https://img.shields.io/badge/Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn)](https://www.linkedin.com/in/jas-shah-709854233)
 [![Email](https://img.shields.io/badge/Drop_me_a_line-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email)](mailto:jasshah9513@gmail.com)
 [![GitHub](https://img.shields.io/badge/Explore_my_code-100000?style=for-the-badge&logo=github&logoColor=white&label=GitHub)](https://github.com/Arbiter09?tab=repositories)
-[![Portfolio](https://img.shields.io/badge/View_my_work-FF5722?style=for-the-badge&logo=todoist&logoColor=white&label=Portfolio)](https://github.com/Arbiter09)
 
 <br>
 
