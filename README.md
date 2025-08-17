@@ -348,37 +348,6 @@ const jasShah = {
 
 ---
 
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"> Fun Facts & Personal Interests
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400">
-</div>
-
-<img align="right" alt="Hobbies" width="300" src="https://user-images.githubusercontent.com/74038190/229223156-143a1cd2-d31b-4a81-b021-c4e7a631dd71.gif">
-
-### 🎸 **Musical Code**: 
-I often debug complex algorithms while playing guitar - something about the rhythm helps my brain process logical patterns!
-
-### ⚽ **Football Fanatic**: 
-Huge football fan! I believe teamwork on the field translates perfectly to collaborative software development.
-
-### 📺 **Anime & Tech**: 
-Love exploring how anime depicts futuristic technology - it often inspires my project ideas!
-
-### 📚 **Continuous Learner**: 
-Currently reading "Designing Data-Intensive Applications" and "The Pragmatic Programmer" simultaneously.
-
-### 🌍 **Cultural Bridge**: 
-Having lived in Mumbai and now New York, I bring a unique global perspective to problem-solving.
-
-### 🎮 **Gaming Strategy**: 
-Strategy games have sharpened my system design thinking - every optimization matters!
-
-<br clear="right"/>
-
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Let's Build Something Amazing Together!
 
 <div align="center">
